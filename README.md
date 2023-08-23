@@ -1,11 +1,13 @@
 # APIs
 Exemplos de APIs
 
-Projeto feito com a RocketSeat
+RocketSeat
 - Trilha Discover
 - Missão Especializar
 
 Projeto feito com a Jakeliny (https://github.com/jakeliny)
+
+O código está totalmente comentado :)
 
 Using
 - Express
